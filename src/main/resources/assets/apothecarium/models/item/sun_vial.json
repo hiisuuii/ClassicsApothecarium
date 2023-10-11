@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer1": "apothecarium:item/vial_overlay",
+        "layer0": "apothecarium:item/empty_vial"
+    }
+}
